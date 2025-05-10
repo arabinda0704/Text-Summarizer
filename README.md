@@ -10,3 +10,8 @@
 6. update the pipeline
 7. update the main.py
 8. update the app.py
+
+## AWS URL
+253959259478.dkr.ecr.eu-north-1.amazonaws.com/textsumm
+## region
+ap-south-1
